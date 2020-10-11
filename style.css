@@ -1,3 +1,42 @@
-li {
-    color: red;
+/* .normal {
+    background-color: coral;
+}
+.box {
+    background-color: pink; */
+    /* Content box */
+    /* width: 200px;
+    height: 200px; */
+    
+    /* Padding box */
+    /* padding: 8px 12px 16px 20px; */
+
+    /* Margin box */
+    /* margin: 8px 12px 16px 20px; */
+    /* margin-bottom: 20px; */
+
+    /* Border box */
+    /* border-top: 5px solid black;
+
+    box-sizing: border-box;
+} */
+/* .margin {
+    background-color: lightblue;
+    margin-top: 30px;
+} */
+/* div, span {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+} */
+.example {
+    background-color: pink;
+    padding: 20px;
+}
+.example span {
+    /* display: inline; */
+    display:inline-block;
+    margin: 20px;
+    border: 1px sokid black;
+    padding: 20px;
+    background-color: lightgreen;
 }
